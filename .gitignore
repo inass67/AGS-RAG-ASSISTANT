@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+
+# Données générées / locales
+chroma_db/
+users.json
